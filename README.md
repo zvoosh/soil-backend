@@ -1,9 +1,16 @@
 ## Soil-Backend
 A Node.js backend service for the Soil project.
 ---
-##Table of Contents
+## Table of Contents
 
 - [About](#about)
+- [Features](#featues)
+- [Technologies](#technologies)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Run server](#run-server)
+
 
 ---
 ## About
@@ -31,7 +38,7 @@ This repository contains the backend server side of the “Soil” application: 
 ---
 ## Getting Started
 
-###Prerequisites
+### Prerequisites
 - Node.js (>= 14.x recommended) 
 - npm or yarn
 
